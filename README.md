@@ -1,2 +1,0 @@
-# Proyecto02DASH_FLASK
-Proyecto02DASH_FLASK
